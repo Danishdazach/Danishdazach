@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi I'M Danish 👋
 
+![Danish Zaki](img/Banner1.gif)
 <!--
 **Danishdazach/Danishdazach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
