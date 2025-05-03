@@ -2,8 +2,6 @@
 
 ![Danish Zaki](img/Banner1.gif)
 
-<p align="left">Hello I'm Danish</p>
-
 ###
 
 <p align="left">I code with</p>
